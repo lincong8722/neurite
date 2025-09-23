@@ -3,11 +3,11 @@
 
 organization:
 
-we'll have a parent folder for each backend type (e.g. tf or torch). inside each of them is a
+we'll have a parent folder for each backend type (e.g. tf or torch). inside each of them is a 
 python module for important constructs (e.g. layers), and a utils folder. Inside the folder are
-naturally structured modules (e.g. seg.py).
+naturally structured modules (e.g. seg.py). 
 
-separately, we'll have a python utilities folder (py), which contains utility modules that are
+separately, we'll have a python utilities folder (py), which contains utility modules that are 
 in core python/numpy
 """
 
